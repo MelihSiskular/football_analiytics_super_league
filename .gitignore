@@ -21,6 +21,8 @@ data/superlig_referee_matches.csv
 data/superlig_referee_matches_clean_with_fouls.csv
 data/superlig_referee_matches_with_fouls.csv
 
+.idea/
+
 # macOS
 .DS_Store
 
