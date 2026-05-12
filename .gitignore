@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# src
+src/weekly_refree_trends.py
+src/top3_cards_per_faul.py
+src/top3_discipline_dashboard.py
+src/top3_refree_heatmap.py
+src/ref_summary.py
+src/penalty_frequency_analysis.py
+src/find_matches.py
+src/find_fouls.py
+src/find_cards_per_faul.py
+
+# Data
+data/superlig_referee_matches.csv
+data/superlig_referee_matches_clean_with_fouls.csv
+data/superlig_referee_matches_with_fouls.csv
+
+# macOS
+.DS_Store
+
+# Playwright / browser profile
+playwright_sofascore_profile/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
