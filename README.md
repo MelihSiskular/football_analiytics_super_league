@@ -60,7 +60,7 @@ Data visualization and analysis were inspired by editorial-style football analyt
 
 ---
 
-## 7. Not
+##  Important!
 
 ```md id="f4hmx6"
 ## Notes
