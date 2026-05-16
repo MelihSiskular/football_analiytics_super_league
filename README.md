@@ -60,10 +60,9 @@ Data visualization and analysis were inspired by editorial-style football analyt
 
 ---
 
-##  Important!
 
-```md id="f4hmx6"
 ## Notes
+```md id="f4hmx6"
 
 Raw datasets and scraping pipelines are not fully included in this repository.
 The project is shared primarily for visualization, analytical methodology, and portfolio purposes.
